@@ -197,6 +197,28 @@
       "markdownFile": null
     },
     {
+      "id": "components-custom-autocomplete-autocomplete-story-vue",
+      "title": "Autocomplete",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "_default",
+          "title": "default"
+        }
+      ],
+      "relativePath": "components/custom/autocomplete/Autocomplete.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Autocomplete"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
       "id": "components-custom-carousel-carousel-story-vue",
       "title": "Carousel",
       "layout": {
